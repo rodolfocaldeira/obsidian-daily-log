@@ -1,0 +1,9 @@
+{
+  "id": "daily-log",
+  "name": "Daily Log",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Adds today's entry to the top of a single Daily.md and carries over unchecked tasks from the previous day.",
+  "author": "Rodolfo Caldeira",
+  "isDesktopOnly": false
+}
