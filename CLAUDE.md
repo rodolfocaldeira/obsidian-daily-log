@@ -95,7 +95,7 @@ This relies on undocumented internals, so there is a settings toggle to turn it 
 * [ ] re-apply the override if Daily Notes is turned on after the plugin loads
 * [ ] make the cursor placement more reliable than the 150 ms delay (e.g. a one-off `file-open` listener)
 * [ ] decide whether new headers should match the old order (`YYYY-MM-DD HH:mm dddd`)
-* [ ] commit to git
+* [X] commit and push to the public GitHub repo
 * [ ] optional: add `versions.json` and a GitHub release for sharing or BRAT installs
 
 ## Findings and learnings
